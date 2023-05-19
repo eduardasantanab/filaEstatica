@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.atividade.Testes" tests="5" skipped="0" failures="0" errors="0" timestamp="2023-03-17T18:37:18" hostname="EDUARDABARROS" time="0.038">
+  <properties/>
+  <testcase name="deenqueue()" classname="com.atividade.Testes" time="0.024"/>
+  <testcase name="enqueue()" classname="com.atividade.Testes" time="0.002"/>
+  <testcase name="isFull()" classname="com.atividade.Testes" time="0.003"/>
+  <testcase name="isEmpty01()" classname="com.atividade.Testes" time="0.001"/>
+  <testcase name="isEmpty02()" classname="com.atividade.Testes" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
